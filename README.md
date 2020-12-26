@@ -56,7 +56,13 @@ NPC can:
 | Player speed | 500 | Default speed value |
 | Increase player speed at next level | Previous iteration player speed * 1.01 | Increases on each iteration |
 | Highest player speed | 2000 | Maximum speed value |
-|Initial health | 1 life | Can’t become more |
+| Initial health | 3 life | Can’t become more |
+| HP in one life | 300 HP | |
+| Gingerbreads health restoring power | 50 HP | Each gingerbread restores 50 HP, but you can’t get extra life and more than 300 HP |
+| NPC throw range | Any | It is limited by enemies vision |
+| Players snowball damage  | 1 life | Instantly kills enemies |
+| NPC snowball damage | 50 HP | Same mechanic as players |
+| NPC vision | 10 meters | Vision shows the NPC attacking distance |
 
 
 
