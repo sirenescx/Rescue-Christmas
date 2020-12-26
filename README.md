@@ -1,5 +1,8 @@
 # Rescue-Christmas
 
+## History
+Grinch with evil gnomes stole Christmas and fled along the ski track. You, as the main character, cannot tolerate such chaos, so you go for the Grinch to bring Christmas back.
+
 ## Concept
 * Platforms: Oculus Quest, PlayStation 4, Windows Mixed Reality
 * Technologies: Unreal Engine 4.25.1
@@ -46,6 +49,14 @@ Snowmen are characters who appear regularly along the track. He can be beaten by
 NPC can:
 * Attack – throw a snowball at the character, the character must dodge (go to another path or he will lose health)
 * Die after attack
+
+## Balance
+| Name | Value | Comment |
+| --- | --- | --- |
+| Player speed | 500 | Default speed value |
+| Increase player speed at next level | Previous iteration player speed * 1.01 | Increases on each iteration |
+| Highest player speed | 2000 | Maximum speed value |
+|Initial health | 1 life | Can’t become more |
 
 
 
