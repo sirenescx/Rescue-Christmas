@@ -1,4 +1,4 @@
-# Rescue-Christmas
+# Rescue Christmas
 
 ## History
 Grinch with evil gnomes stole Christmas and fled along the ski track. You, as the main character, cannot tolerate such chaos, so you go for the Grinch to bring Christmas back.
@@ -64,14 +64,7 @@ NPC can:
 | NPC snowball damage | 50 HP | Same mechanic as players |
 | NPC vision | 10 meters | Vision shows the NPC attacking distance |
 
-
-
-
-
-
-
-
-
-
-
+## Links 
+* Item collect sound: https://freesound.org/people/DWOBoyle/sounds/140382/
+* Swallowing sound: https://freesound.org/people/Q.K./sounds/56271/
 
